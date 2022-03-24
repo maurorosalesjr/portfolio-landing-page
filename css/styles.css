@@ -1,0 +1,42 @@
+.important {
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
+
+.column {
+  width: 33%;
+  float: left
+}
+
+img {
+  border: green;
+  margin: 10px;
+  float: left;
+  width:25%;
+  height: auto;
+  display: block;
+}
+
+.sidebar {
+  border: 5px black;
+  width: 25%;
+  float: right;
+  padding: 10px;
+  background-color: cornflowerblue;
+  display:block;
+  margin: 10px
+}
+
+h3 {
+  color: black;
+  font-style: italic;
+  text-align: center;
+}
+
+p {
+  margin: 30px;
+
+
+}
