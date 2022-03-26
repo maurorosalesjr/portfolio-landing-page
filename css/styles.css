@@ -76,3 +76,19 @@ ol {
 
 }
 
+.background {
+  border-radius: 10%;
+  border-width: 5px;
+  border-style: dashed;
+  border-color:darkcyan;
+  background-color: greenyellow;
+
+}
+
+.background2 {
+  border-radius: 10%;
+  border-width: 5px;
+  border-style: dashed;
+  border-color: darkgoldenrod;
+  background-color: bisque;
+}
