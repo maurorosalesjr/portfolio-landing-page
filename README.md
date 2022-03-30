@@ -16,9 +16,11 @@ This is a landing page for my professional coding portfolio. In the sidebar i ha
 
 ## Setup/Installation Requirements
 
-In your internet browser, follow the link to my personal landing page.
-
--Alternatively you can fork and clone my repo, then open the html file. Either in VSCode, to check out the code, or in your browser to check out what the site looks like.
+-In your internet browser, follow the link to my personal landing page.
+-https://github.com/maurorosalesjr/portfolio-landing-page/tree/gh-pages
+-fork and clone my repo
+-then open the html file in VSCode, to check out the code
+-click and drag the index.html file in your browser to check out what the site looks like.
 
 ## Known Bugs
 
